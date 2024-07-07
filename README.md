@@ -31,18 +31,13 @@ This is a Python-based password generator application built using the Tkinter li
     ```
 2. The application window will open. You can choose the password difficulty level, set the length of the password, and generate a password or OTP.
 
-## Screenshots
-Include some screenshots of your application in use here. This helps users understand what to expect.
-
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the Karlos© License. See the `LICENSE` file for details.
 
 ## Contributing
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
-For any questions or suggestions, please contact [your-email@example.com].
+For any questions or suggestions, please contact me on LinkedIn
 
 ---
-
-This is a basic template. Feel free to modify it to better suit your project's needs. Also, remember to replace placeholders like `your-username`, `password_generator.py`, and `your-email@example.com` with the appropriate information.
